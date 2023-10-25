@@ -1,2 +1,3 @@
 a = "hello everyone"
-print{'a'}
+b = "everyone"
+c = "a+b"
